@@ -1,0 +1,16 @@
+WIN_W = 1000
+WIN_H = 700
+FPS = 60
+SIZE = 70
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+WHITE = (255, 255, 255)
+DOG_W = 51
+DOG_H = 178
+DUMPLING_W = 81
+DUMPLING_H = 70
+DOGRIGHT_IMG = 'src/dogright.png'
+DOGLEFT_IMG = 'src/dogleft.png'
+DUMPLING_IMG = 'src/dumpling.png'
+BG_IMG = 'src/kitchen.png'
+WIN_SCORE = 5
